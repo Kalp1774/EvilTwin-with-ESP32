@@ -16,7 +16,7 @@ Designed for ethical hacking, security workshops, and demo labs.
 🧰 Tech Stack:
 Hardware- ESP32 Dev Module, MAX7219 LED Matrix Display,
 Software- Arduino IDE, WiFi.h, MD_MAX72XX or LedControl.h,
-Language- Python (Arduino).
+Language- C++ (Arduino).
 
 ⚠️ Legal Disclaimer:
 This tool is intended for legal educational use only. Any use against networks or devices without explicit permission is illegal and unethical.
